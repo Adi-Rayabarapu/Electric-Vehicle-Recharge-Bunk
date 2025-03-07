@@ -1,5 +1,3 @@
-![Screenshot (119)](https://github.com/user-attachments/assets/82c4db01-fff1-479a-bbf8-7a749d8e2b5c)
-![Screenshot (118)](https://github.com/user-attachments/assets/af3e2499-afa6-46f7-b0b6-5b9d57e6fd65)
 # Electric-Vehicle-Recharge-Bunk
 These EV Recharge Bunk is a modern and efficient electric vehicle charging solution designed to make EV charging seamless and hassle-free. Built using HTML, CSS, JavaScript, and Firebase, our platform offers a user-friendly experience for EV owners to locate, book, and manage charging sessions with ease.
 
