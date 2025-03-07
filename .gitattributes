@@ -1,0 +1,14 @@
+# Ignoring Basic styles
+*fonts.css linguist-detectable=false
+*styles.css linguist-detectable=false
+*responsive.css linguist-detectable=false
+*about.css linguist-detectable=false
+*contact.css linguist-detectable=false
+
+# Ignoring Basic & Common Markups
+about.html linguist-detectable=false
+contact.html linguist-detectable=false
+*services.html linguist-detectable=false
+common/services.html linguist-detectable=true
+login.html linguist-detectable=false
+register.html linguist-detectable=false
